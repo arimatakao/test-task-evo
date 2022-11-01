@@ -1,5 +1,9 @@
 # test-task-evo
 
+YOU MUST HAVE example.csv AND INSTALLED **POSTGRESQL** FOR USE THE PROGRAM.
+
+Before install program create "postgres" user and gave him 1234 password. Create with that user "material" table.
+
 How to install:
 
 1. Clone this repository: `git clone https://github.com/arimatakao/test-task-evo.git`
